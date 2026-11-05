@@ -1,6 +1,7 @@
 {
   "title": "Revelation: A 14-Day Study",
   "source": "https://bibleproject.com/guides/book-of-revelation/",
+  "questionsIntro": "Use these questions to notice details, make connections, and reflect on the text. They are invitations to discussion, not answer keys.",
   "studies": [
     {
       "day": 1,
@@ -35,7 +36,15 @@
           ]
         }
       ],
-      "relatedResources": []
+      "relatedResources": [],
+      "questions": [
+        "What details in Revelation 1 identify John’s audience and situation, and how do those details shape your reading of the vision?",
+        "Which images in the opening vision stand out to you, and what connections does the guide make to earlier Scripture?",
+        "How do the seven churches’ different conditions challenge a one-size-fits-all picture of faithfulness?",
+        "What might it look like for a community to remain faithful when it faces pressure to compromise?",
+        "How does the guide’s description of apocalyptic imagery affect the way you approach symbols in Revelation 1?",
+        "What question about Jesus’ words to the churches would you most want to carry into the next reading?"
+      ]
     },
     {
       "day": 2,
@@ -90,6 +99,14 @@
           "duration": "38 min",
           "url": "https://bibleproject.com/podcasts/jewish-apocalyptic-imagination/"
         }
+      ],
+      "questions": [
+        "What does the repeated call to hear and overcome invite the churches to notice about their present choices?",
+        "How do the warnings and promises in these chapters work together rather than separately?",
+        "Which church’s situation feels most difficult to understand from the text, and what details leave that question open?",
+        "How does Revelation describe conquering, and what does that language ask you to reconsider about victory?",
+        "What signs of wealth, suffering, compromise, or endurance do you see in the messages to the churches?",
+        "How might the first-century setting help you read these messages without reducing them to a timetable for later events?"
       ]
     },
     {
@@ -117,7 +134,15 @@
           ]
         }
       ],
-      "relatedResources": []
+      "relatedResources": [],
+      "questions": [
+        "What features of the throne-room vision communicate authority, abundance, or holiness to you?",
+        "How do the creatures and elders respond to the one on the throne, and what does their response emphasize?",
+        "What Old Testament echoes does the guide identify in Revelation 4, and how do they deepen the scene?",
+        "Why might the scroll be presented as something that needs a worthy opener?",
+        "What emotions or questions arise from John’s response when no one is found who can open the scroll?",
+        "How does the vision move your attention between the heavenly scene and the unfinished story of history?"
+      ]
     },
     {
       "day": 4,
@@ -193,6 +218,14 @@
           "duration": "1 hr 5 min",
           "url": "https://bibleproject.com/podcasts/significance-7/"
         }
+      ],
+      "questions": [
+        "What contrast does Revelation 5 create between the title John hears and the figure he sees?",
+        "How does the image of the slain yet living lamb shape the chapter’s meaning of power?",
+        "What responses to the lamb appear in the vision, and what do they have in common?",
+        "How does the scroll function in the guide’s reading of Jesus’ authority over history?",
+        "What does the nesting pattern of the sevens suggest about how the judgments may be related?",
+        "Which interpretive possibilities does the prose leave open, and how can you read the sequence without forcing certainty?"
       ]
     },
     {
@@ -219,7 +252,15 @@
           ]
         }
       ],
-      "relatedResources": []
+      "relatedResources": [],
+      "questions": [
+        "What do the four horsemen collectively communicate about the human consequences of conquest and conflict?",
+        "How does the fifth seal shift the scene from earthly suffering to the heavenly throne room?",
+        "What does the martyrs’ cry ask God to do, and how does God respond to their waiting?",
+        "How do the images from Zechariah, Isaiah, and Joel help frame the seals in the guide’s account?",
+        "What does the question “Who is able to stand?!” make you notice about the people in this vision?",
+        "How might the passage hold together grief, judgment, and the expectation of justice?"
+      ]
     },
     {
       "day": 6,
@@ -274,6 +315,14 @@
           "duration": "5 min",
           "url": "https://bibleproject.com/videos/justice/"
         }
+      ],
+      "questions": [
+        "What is the relationship between hearing the number 144,000 and seeing the multiethnic people before God?",
+        "How does the seal function in the scene, and what does the text emphasize about those who receive it?",
+        "What does the guide’s use of military imagery reveal about the kind of army the lamb has?",
+        "How are witness and suffering connected in this reading of the lamb’s followers?",
+        "What does the transition from the seventh seal to the warning trumpets do to the pacing of the vision?",
+        "Which details in Revelation 7–8 invite you to read protection as something other than escape from hardship?"
       ]
     },
     {
@@ -306,7 +355,15 @@
           ]
         }
       ],
-      "relatedResources": []
+      "relatedResources": [],
+      "questions": [
+        "How do the trumpet judgments echo the Exodus story, and what difference does that echo make?",
+        "What does the repeated refusal of the nations to repent contribute to the guide’s understanding of judgment?",
+        "What might eating the scroll communicate about receiving and proclaiming its message?",
+        "How does the measured temple scene distinguish between protection and suffering?",
+        "What reasons does the guide give for reading the temple as a symbol of God’s people?",
+        "How can the vision describe external defeat while also presenting a deeper form of victory?"
+      ]
     },
     {
       "day": 8,
@@ -357,6 +414,14 @@
           "duration": "4 min",
           "url": "https://bibleproject.com/videos/angels-cherubim/"
         }
+      ],
+      "questions": [
+        "What features identify the two witnesses as prophetic representatives in the guide’s reading?",
+        "How do the lampstands connect this vision to the earlier messages to the churches?",
+        "What does the witnesses’ death and vindication reveal about the cost and outcome of their testimony?",
+        "How does the nations’ response differ here from their response to the earlier warning judgments?",
+        "What does imitating the lamb look like in the passage’s account of the Church’s mission?",
+        "How does the final trumpet change the way you understand the scroll’s message so far?"
       ]
     },
     {
@@ -390,7 +455,15 @@
           ]
         }
       ],
-      "relatedResources": []
+      "relatedResources": [],
+      "questions": [
+        "What does the language of signs signal about how Revelation 12–13 should be read?",
+        "How does the dragon’s conflict with the woman and her seed connect the vision to Genesis?",
+        "What distinction does the guide draw between the human powers represented by the beasts?",
+        "How do the forehead and hand images echo the Shema and sharpen the question of allegiance?",
+        "What kinds of power, propaganda, or economic pressure are visible in the beast imagery?",
+        "How does the text’s portrayal of spiritual evil affect the way it describes human enemies and resistance?"
+      ]
     },
     {
       "day": 10,
@@ -451,6 +524,14 @@
           "duration": "59 min",
           "url": "https://bibleproject.com/podcasts/does-god-punish-innocent-people/"
         }
+      ],
+      "questions": [
+        "How does the guide use the number 666 to connect John’s vision with patterns of beastly rule?",
+        "What contrast does the passage create between Babylon’s allegiance and the lamb’s followers?",
+        "How do the two harvest images frame judgment, and what details make each harvest distinct?",
+        "What does the eternal Gospel call people to do in the middle of these visions?",
+        "How do the bowls echo the Exodus plagues while producing a different response from the people?",
+        "What interpretive questions remain around Armageddon, and what does the guide emphasize regardless of those questions?"
       ]
     },
     {
@@ -484,7 +565,15 @@
           ]
         }
       ],
-      "relatedResources": []
+      "relatedResources": [],
+      "questions": [
+        "What makes Babylon appear attractive and destructive at the same time in the vision?",
+        "How does the guide connect the symbols of Babylon to Rome and to recurring patterns in human kingdoms?",
+        "What Old Testament passages are echoed in the description of Babylon’s downfall, and why might John draw on so many?",
+        "How does the rider in Revelation 19 differ from a conventional picture of a conquering hero?",
+        "What is signified by the rider’s blood and by the sword that comes from his mouth?",
+        "How does the passage invite you to think about accountability for the ruin caused in the world?"
+      ]
     },
     {
       "day": 12,
@@ -541,6 +630,14 @@
           "duration": "59 min",
           "url": "https://bibleproject.com/podcasts/biggest-baddest-city-bible/"
         }
+      ],
+      "questions": [
+        "What does the vision of the martyrs reigning contribute to the book’s earlier promises to faithful witnesses?",
+        "How does the passage portray the dragon’s final attempt to rally the nations?",
+        "What different readings of the thousand years does the guide describe, and what does each reading seek to explain?",
+        "Which features of the text support reading the two battle scenes together or from different angles?",
+        "How does the image of the bride prepare you for the book’s final vision of new creation?",
+        "What does the promise that God will live with humanity add to the meaning of “make all things new”?"
       ]
     },
     {
@@ -567,7 +664,15 @@
           ]
         }
       ],
-      "relatedResources": []
+      "relatedResources": [],
+      "questions": [
+        "What earlier biblical promises does the new heaven and earth vision gather together?",
+        "How does the new Jerusalem differ from a simple return to Eden in the guide’s description?",
+        "What does the absence of a temple communicate about God’s presence in the new world?",
+        "How are human cultures and shared work portrayed in this vision of restored creation?",
+        "What does the city image add to the garden and creation images already present in the story?",
+        "How does the calling to rule as God’s image and partner shape your reading of the ending’s hope?"
+      ]
     },
     {
       "day": 14,
@@ -674,6 +779,14 @@
           "duration": "",
           "url": "https://stream.mux.com/tUFH502znU6ShKPHoNXJBTwC01ffh5zMpMBsCNOmbY7uI/low.mp4?download=Apocalyptic%20Literature.mp4"
         }
+      ],
+      "questions": [
+        "What images in Revelation 22 portray life, healing, and access, and how do they relate to the final vision’s setting?",
+        "How does the ending connect the new creation to the opening pages of the Bible?",
+        "What does John’s closing emphasis on faithfulness ask of the seven churches and later readers?",
+        "How does the guide distinguish symbolic vision from a secret timetable, and what difference does that make for reading?",
+        "Which patterns of Babylon or resistance described in the prose seem most important to keep noticing?",
+        "What question, promise, or image from the whole study do you want to revisit after finishing Revelation 22?"
       ]
     }
   ]
