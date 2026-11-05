@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#10141f">
+  <meta name="description" content="A temporary personal 14-day study reader for the BibleProject Revelation guide.">
+  <title>Revelation — 14-Day Study</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to study</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="./" aria-label="Revelation study home"><span class="brand-mark">✦</span><span>Revelation <em>14-day study</em></span></a>
+      <nav class="top-nav" aria-label="Primary"><a href="#day-index">Day index</a><button id="reset-progress" class="text-button" type="button">Reset progress</button></nav>
+    </div>
+  </header>
+  <main id="main" tabindex="-1">
+    <section class="hero" aria-labelledby="page-title">
+      <div class="hero-copy"><p class="eyebrow">A guided reading companion</p><h1 id="page-title">Revelation,<br><span>in 14 days.</span></h1><p class="lede">Read the BibleProject guide in order, with its original instructional prose and resource links kept together in a focused daily reader.</p><div class="notice"><strong>Temporary personal-study copy</strong><span>This is an unendorsed, noncommercial study aid. BibleProject guide prose and resources remain © BibleProject and their respective owners. See the source notice in the README.</span></div></div>
+      <div class="hero-stat"><span class="stat-number" id="progress-count">0</span><span class="stat-label">days complete</span><div class="progress-track"><span id="progress-bar"></span></div></div>
+    </section>
+    <section id="day-index" class="index-section" aria-labelledby="index-title"><div class="section-heading"><p class="eyebrow">The path</p><h2 id="index-title">Choose a day</h2></div><div id="day-grid" class="day-grid"></div></section>
+    <section id="study-view" class="study-section" aria-live="polite"></section>
+  </main>
+  <footer class="site-footer"><p>Temporary personal study copy · Source: <a href="https://bibleproject.com/guides/book-of-revelation/">BibleProject Book of Revelation guide</a></p><p>Built as a local, no-build-step static reader. No BibleProject media or images are bundled.</p></footer>
+  <script type="module" src="assets/app.js"></script>
+</body>
+</html>
